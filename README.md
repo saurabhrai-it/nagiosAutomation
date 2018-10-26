@@ -1,2 +1,2 @@
 # nagiosAutomation
-This project is buid to automate nagios moonitoring.
+This project is buid to automate nagios monitoring.
